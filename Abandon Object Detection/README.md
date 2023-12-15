@@ -12,7 +12,7 @@ Ordered
    - Draw ROI
    - Draw Zones (Shown in image)
 
-![image](https://github.com/ayushaggarwalI2V/Abandon/blob/main/Abandon%201.png "image")
+![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/Abandon%20Object%20Detection/images/highwayAbandon%201.png "image")
 
 4. Check Alert When Object arrive and Stationary Duration
 5. For Advance Setting [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/132)
