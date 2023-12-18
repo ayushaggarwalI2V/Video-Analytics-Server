@@ -17,6 +17,7 @@
 4. Check Alert When Object arrives and Stationary Duration
 5. For Advance Setting [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/132)
 6. For Abandon Setting [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/114)
+7. Check Frame Skipping and its effect on the computation of the system.
 
 
 ***Different test Cases for different videos***
@@ -27,7 +28,6 @@
    - Remove filter event by classification
    - Check the stationary duration time
    - Draw the area as shown in the image
-   - Check this for more information [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/114)
    
    ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/Abandon%20Object%20Detection/images/graffiti.png "Graffiti Abandon")
 
@@ -36,6 +36,24 @@
    - Remove filter event by classification
    - Check the stationary duration time
    - Check Alert for bag after the Stationary duration time
-   - Check this for more information [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/114)
+   - Check the background similarity factor
    
    ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/Abandon%20Object%20Detection/images/cityAbandon.png "City Abandon")
+
+3. Highway Scenario
+   - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\01 Abandon\highwayAbandon 1
+   - Set stationary duration time to 10 sec
+   - Check Alert for on=bject after the Stationary duration time
+   - Must check other objects not showing the abandoned object
+   - Check with different select objects like - cars, buses, etc
+   
+   ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/Abandon%20Object%20Detection/images/highwayAbandon%201.png "Highway Abandon")
+
+4. No Abandon - no alert generated 
+   - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\01 Abandon\no abandon 1
+   - Set stationary duration time to 10 sec
+   - *Must check no alert is generated because there is no abandoned item in this video*
+   - Must check other objects not showing the abandoned object
+   - Check with different select objects like - cars, buses, etc
+   
+   ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/Abandon%20Object%20Detection/images/noabandoned.png "No Abandon")
