@@ -67,4 +67,7 @@
 5. Tracking of object -> ID persists, no exchange of ID
 6. VA Stream Delay
 7. Filter by classification objects
-8. Advance Settings
+8. Check Multiple zones, min-max setting
+9. Check Find Attributes
+10. Show tracks, trackID
+11. Advance Settings
