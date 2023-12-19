@@ -4,7 +4,7 @@
 
 1. Analytic Specific Settings
    - Select Object
-   - Check Stationary Duration Time                                                                                                                                            
+   - Check Stationary Duration Time                                 
    - Check Filter by Classification - To get alerts of only Selected items
 2. Object Sizes
    - Draw Min and Max Size of the Object
@@ -19,7 +19,6 @@
 6. For Abandon Setting [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/114)
 7. Check Frame Skipping and its effect on the computation of the system.
 
-
 ***Different test Cases for different videos***
 ##### Find Videos on _\\192.168.1.22\Testing_team\ayush_testing_videos_
 
@@ -28,35 +27,37 @@
    - Disable `filter event by classification`
    - Check the stationary duration time
    - Draw the area as shown in the image
-   - Expected Output -> ***Must get alert of object*** after the stationary duration time
+   - Expected Output -> **_Must get alert of object_** after the stationary duration time
      
    ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/01%20Abandon%20Object%20Detection/images/graffiti.png "Graffiti Abandon")
 
 2. City Scenario (City Abandon)
    - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\01 Abandon\cityAbandon 3
-   - Remove filter event by classification
+   - Disable `filter event by classification`
    - Check the stationary duration time
    - Check Alert for bag after the Stationary duration time
-   - Check the background similarity factor
+   - Check the background similarity factor -> Check background to use background matching algorithm for abandoned objects.
+   - Expected Output -> **_Alert of the bag is generated_**
    
    ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/01%20Abandon%20Object%20Detection/images/cityAbandoned.png "City Abandon")
 
-3. Highway Scenario
+4. Highway Scenario
    - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\01 Abandon\highwayAbandon 1
    - Set stationary duration time to 10 sec
-   - Check Alert for on=bject after the Stationary duration time
+   - Check Alert for the object after the Stationary duration time
    - Must check other objects not showing the abandoned object
    - Check with different select objects like - cars, buses, etc
    
    ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/01%20Abandon%20Object%20Detection/images/highwayAbandoned.png "Highway Abandon")
 
-4. No Abandon - no alert generated 
+5. No Abandon - no alert generated 
    - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\01 Abandon\no abandon 1
    - Set stationary duration time to 10 sec
    - *Must check no alert is generated because there is no abandoned item in this video*
    - Must check other objects not showing the abandoned object
    - Check with different select objects like - cars, buses, etc
-   
+   - Expected Output -> **_No alerts are generated_** because there is no abandoned object in this video
+     
    ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/01%20Abandon%20Object%20Detection/images/no%20abandoned.png "No Abandon")
 
 ***Different test Cases only for Abandon***
