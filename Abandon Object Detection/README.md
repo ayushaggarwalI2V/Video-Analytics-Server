@@ -57,3 +57,14 @@
    - Check with different select objects like - cars, buses, etc
    
    ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/Abandon%20Object%20Detection/images/noabandoned.png "No Abandon")
+
+***Different test Cases***
+1. Check Release Update
+2. Release clean install
+3. Detection of different models
+4. Check Backend -> Inference, Open CV, CUDA
+5. Frame Skipping
+6. Check Bbox
+7. Tracking of object -> ID persists, no exchange of ID
+8. VA Stream Delay
+9. Advance Settings
