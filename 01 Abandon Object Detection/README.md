@@ -20,7 +20,7 @@
 7. Check Frame Skipping and its effect on the computation of the system.
 8. Output will Look like
    
-   ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/01%20Abandon%20Object%20Detection/images/abandoned_graffiti_output.png "Output")
+   ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/01%20Abandon%20Object%20Detection/images/abandoned_graffiti_output.png "Abandon Output")
 
 ***Different test Cases for different videos***
 ##### Find Videos on _\\192.168.1.22\Testing_team\ayush_testing_videos_
