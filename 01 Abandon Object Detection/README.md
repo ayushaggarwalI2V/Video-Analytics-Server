@@ -1,5 +1,5 @@
 # **Abandon Object Detection**
-
+ 
 ***Steps to apply Abandon Analytic***
 
 1. Analytic Specific Settings
@@ -12,12 +12,15 @@
    - Draw ROI
    - Draw Zones (Shown in image)
    
-    ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/01%20Abandon%20Object%20Detection/images/vms%20image.png "VMS image")
-
+    ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/01%20Abandon%20Object%20Detection/images/graffiti.png "VMS image")
+   
 4. Check Alert When Object arrives and Stationary Duration
 5. For Advance Setting [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/132)
 6. For Abandon Setting [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/114)
 7. Check Frame Skipping and its effect on the computation of the system.
+8. Output will Look like
+   
+   ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/01%20Abandon%20Object%20Detection/images/abandoned_graffiti_output.png "Output")
 
 ***Different test Cases for different videos***
 ##### Find Videos on _\\192.168.1.22\Testing_team\ayush_testing_videos_
@@ -41,16 +44,17 @@
    
    ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/01%20Abandon%20Object%20Detection/images/cityAbandoned.png "City Abandon")
 
-4. Highway Scenario
+3. Highway Scenario
    - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\01 Abandon\highwayAbandon 1
    - Set stationary duration time to 10 sec
    - Check Alert for the object after the Stationary duration time
    - Must check other objects not showing the abandoned object
    - Check with different select objects like - cars, buses, etc
-   
+   - Expected Output -> **_Must get alert of object_**
+     
    ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/01%20Abandon%20Object%20Detection/images/highwayAbandoned.png "Highway Abandon")
 
-5. No Abandon - no alert generated 
+4. No Abandon - no alert generated 
    - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\01 Abandon\no abandon 1
    - Set stationary duration time to 10 sec
    - *Must check no alert is generated because there is no abandoned item in this video*
@@ -69,7 +73,7 @@
 5. Tracking of object -> ID persists, no exchange of ID
 6. VA Stream Delay
 7. Filter by classification objects
-8. Check Multiple zones, min-max setting
+8. Draw Multiple zones, min-max setting
 9. Check Find Attributes
 10. Show tracks, trackID
 11. Advance Settings
