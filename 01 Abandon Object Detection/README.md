@@ -4,7 +4,7 @@
 
 1. Analytic Specific Settings
    - Select Object
-   - Check Stationary Duration Time 
+   - Check Stationary Duration Time                                                                                                                                            
    - Check Filter by Classification - To get alerts of only Selected items
 2. Object Sizes
    - Draw Min and Max Size of the Object
@@ -12,7 +12,7 @@
    - Draw ROI
    - Draw Zones (Shown in image)
    
-    ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/01%20Abandon%20Object%20Detection/images/vms%20abandon%20image.png "VMS image")
+    ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/01%20Abandon%20Object%20Detection/images/vms%20image.png "VMS image")
 
 4. Check Alert When Object arrives and Stationary Duration
 5. For Advance Setting [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/132)
@@ -25,10 +25,11 @@
 
 1. Graffiti Abandon Object
    - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\01 Abandon\abandonGraffiti1
-   - Remove filter event by classification
+   - Disable `filter event by classification`
    - Check the stationary duration time
    - Draw the area as shown in the image
-   
+   - Expected Output -> ***Must get alert of object*** after the stationary duration time
+     
    ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/01%20Abandon%20Object%20Detection/images/graffiti.png "Graffiti Abandon")
 
 2. City Scenario (City Abandon)
@@ -38,7 +39,7 @@
    - Check Alert for bag after the Stationary duration time
    - Check the background similarity factor
    
-   ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/01%20Abandon%20Object%20Detection/images/cityAbandon.png "City Abandon")
+   ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/01%20Abandon%20Object%20Detection/images/cityAbandoned.png "City Abandon")
 
 3. Highway Scenario
    - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\01 Abandon\highwayAbandon 1
@@ -47,7 +48,7 @@
    - Must check other objects not showing the abandoned object
    - Check with different select objects like - cars, buses, etc
    
-   ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/01%20Abandon%20Object%20Detection/images/highwayAbandon%201.png "Highway Abandon")
+   ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/01%20Abandon%20Object%20Detection/images/highwayAbandoned.png "Highway Abandon")
 
 4. No Abandon - no alert generated 
    - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\01 Abandon\no abandon 1
@@ -56,7 +57,7 @@
    - Must check other objects not showing the abandoned object
    - Check with different select objects like - cars, buses, etc
    
-   ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/01%20Abandon%20Object%20Detection/images/noabandoned.png "No Abandon")
+   ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/01%20Abandon%20Object%20Detection/images/no%20abandoned.png "No Abandon")
 
 ***Different test Cases only for Abandon***
 
