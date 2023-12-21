@@ -1,8 +1,8 @@
 # Video-Analytics-Server
 
 ## List of Analytics
-1. [Abandon Object](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/01%20Abandon%20Object%20Detection)
-2. [Motion Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/02%20Advance%20Motion)
+[1. Abandon Object](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/01%20Abandon%20Object%20Detection)
+[2. Motion Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/02%20Advance%20Motion)
 3. Action Recognition
    * Fight Detection
    * Waveing Detection
