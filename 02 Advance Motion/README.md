@@ -43,7 +43,7 @@
    - Draw the Min Max Object size as shown in the image
    - Expected Output -> **_Must get alert of the motion object_**
      
-   ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/02%20Advance%20Motion/images/advanceMotionVMS.png "Canteen Motion")
+     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/02%20Advance%20Motion/images/advanceMotionVMS.png "Canteen Motion")
 
 2. City Scenario (City Motion Detection)
    - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\02 Advance Motion\cityMotion2
@@ -52,7 +52,7 @@
    - Check the background similarity factor -> Check background to use background matching algorithm for abandoned objects.
    - Expected Output -> **_Alert of the All Motion Object is generated_**
    
-   ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/02%20Advance%20Motion/images/city%20motion%20detection.png "City Motion")
+     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/02%20Advance%20Motion/images/city%20motion%20detection.png "City Motion")
 
 3. No Motion Detection
    - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\01 Abandon\highwayAbandon 1
@@ -64,9 +64,9 @@
    - Disable `CheckMotion` in Analytic Specific Setting
    - Check Alert for the No Motion by No Motion Interval
    - Must check Motion Detection Alert not coming because we disabled the `checkMotion` setting
-   - Expected Output -> **_Must get alert of No Motion**
+   - Expected Output -> **Must get alert of No Motion**
      
-   ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/02%20Advance%20Motion/images/noMotion%20VMS.png "No motion")
+     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/02%20Advance%20Motion/images/noMotion%20VMS.png "No motion")
 
 ***Different test Cases only for Advance Motion***
 
@@ -82,6 +82,6 @@
 10. Advance Settings
 
 ***Must Check Setting***
-- Find Attributes Setting in Analytic Advance Specific Setting by enabling `show advance prop.`
-   - In the event card check attributes like -> backpack, bottomRGB (Bottom color), hat, longhair, longpants, longsleeves etc
+- Enable `find Attributes` Setting in Analytic Advance Specific Setting by enabling `show advance prop.`
+   - In the event card check attributes like -> backpack, bottom RGB (Bottom color), hat, longhair, longpants, longsleeves, etc
   
