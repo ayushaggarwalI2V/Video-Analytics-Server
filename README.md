@@ -3,9 +3,7 @@
 ## List of Analytics
 1. [Abandon Object](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/01%20Abandon%20Object%20Detection)
 2. [Advance Motion Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/02%20Advance%20Motion)
-3. Action Recognition
-   * Fight Detection
-   * Waveing Detection
+3. [Action Recognition](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/03%20Action%20Recognition)
 4. ATCC (Automatic Traffic Counting And Classification)
 5. Camera Tampering
 6. Crowd Detection
