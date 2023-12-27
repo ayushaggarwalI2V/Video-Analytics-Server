@@ -4,34 +4,23 @@
 
 1. Analytic Specific Settings
    - Select Object
-   - For No Motion
-     - No Motion Interval - Time in seconds for no motion
-     - No Motion Alert Interval - Interval in sec for No motion alerts
 2. Object Sizes
    - Draw Min and Max Size of the Object
 3. Drawing Setting
    - Draw ROI
-   - No Zones will be drawn in Motion Analytics
+   - No Zones will be drawn in Action Recognition Analytics
 
-   - Zone for Motion Detection
+   - Zone for Action Recognition
 
-     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/02%20Advance%20Motion/images/advanceMotionVMS.png "VMS Motion")
-     
-   - Zone for No Motion
-    
-     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/02%20Advance%20Motion/images/noMotion%20VMS.png "VMS no Motion")
-     
+     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/03%20Action%20Recognition/images/action%20Recg%20VMS.png "VMS Action")
+
 4. Check Alert When the motion happens
 5. For Advance Setting [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/132)
+6. For Action Recognition [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/116)
 7. Check Frame Skipping and its effect on the computation of the system.
 8. Output will Look like
-   - For Motion Alert
 
-     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/02%20Advance%20Motion/images/MotionAlert.png "No Motion Output")
-     
-   - For No Motion Alert
-     
-     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/02%20Advance%20Motion/images/noMotionAlert.png "No Motion Output")
+     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/03%20Action%20Recognition/images/Fight%20detection.png "Action Recog Output")
 
 ***Different test Cases for different videos***
 ##### Find Videos on _\\192.168.1.22\Testing_team\ayush_testing_videos_
@@ -68,7 +57,7 @@
      
      ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/02%20Advance%20Motion/images/noMotion%20VMS.png "No motion")
 
-***Different test Cases only for Advance Motion***
+***Different test Cases only for Action Recognition***
 
 1. Detection with different models
 2. Check Backend -> Inference, Open CV, CUDA
