@@ -14,7 +14,7 @@
 
      ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/05%20Camera%20Tampering/images/Camera%20Tampering.png "Camera Tampering")
 
-4. Check Alert When the motion happens
+4. Check Alert When the Camera Tampered
 5. For Advance Setting [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/132)
 6. Check Frame Skipping and its effect on the computation of the system.
 7. Check the Moving sensitivity ratio
