@@ -10,7 +10,6 @@
    - Draw Min and Max Size of the Object
 3. Drawing Setting
    - Draw ROI
-   - No Zones will be drawn in Crowd Detection Analytics
    - Zone for Crowd Detection
 
      ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/06%20Crowd%20Detection/images/crowd%20detection.png "Camera Tampering")
