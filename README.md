@@ -5,7 +5,7 @@
 2. [Advance Motion Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/02%20Advance%20Motion)
 3. [Action Recognition](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/03%20Action%20Recognition)
 4. ATCC (Automatic Traffic Counting And Classification)
-5. Camera Tampering
+5. [Camera Tampering](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/05%20Camera%20Tampering)
 6. Crowd Detection
 7. Fire Detection
 8. Face Detection
