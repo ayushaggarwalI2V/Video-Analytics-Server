@@ -8,7 +8,7 @@
 5. [Camera Tampering](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/05%20Camera%20Tampering)
 6. [Crowd Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/06%20Crowd%20Detection)
 7. [Fire Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/07%20Fire%20Detection)
-8. Face Detection
+8. [Face Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/08%20Face%20Detection)
 9. Garbage Detection
 10. Intrusion Detection
 11. Missing Object
