@@ -32,7 +32,7 @@
    - Draw the Min Max Object size as shown in the image
    - Expected Output -> **_Must get alert of the Crowd Detection when maximum crowd threshold reaches_**
      
-     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/06%20Crowd%20Detection/images/crowd%20detection.png"Camera Tampering")
+     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/06%20Crowd%20Detection/images/crowd%20detection.png "Camera Tampering")
 
 2. No Crowd Detection
    - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\06 Crowd\no crowd_outside_farm1
