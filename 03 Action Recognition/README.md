@@ -25,37 +25,27 @@
 ***Different test Cases for different videos***
 ##### Find Videos on _\\192.168.1.22\Testing_team\ayush_testing_videos_
 
-1. Canteen Motion Video
-   - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\02 Advance Motion\canteenMotion1
-   - Disable `checkNoMotion` in Analytic Specific Setting
-   - Enable `CheckMotion` in Analytic Specific Setting
+1. Outside Action Video
+   - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\03 Action Recog\outsideAction1
    - Draw the Min Max Object size as shown in the image
-   - Expected Output -> **_Must get alert of the motion object_**
+   - Expected Output -> **_Must get alert of the Action when the fight is detected_**
      
-     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/02%20Advance%20Motion/images/advanceMotionVMS.png "Canteen Motion")
+     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/03%20Action%20Recognition/images/action%20outside.png "Action")
 
-2. City Scenario (City Motion Detection)
-   - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\02 Advance Motion\cityMotion2
-   - Disable `checkNoMotion` in Analytic Specific Setting
-   - Enable `CheckMotion` in Analytic Specific Setting
+2. Road Side Action
+   - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\03 Action Recog\roadAction3
+   - Check birth and death threshold in Advance Analytic Setting
    - Check the background similarity factor -> Check background to use background matching algorithm for abandoned objects.
-   - Expected Output -> **_Alert of the All Motion Object is generated_**
+   - Expected Output -> **_Must get alert of the Action when the fight is detected_**
    
-     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/02%20Advance%20Motion/images/city%20motion%20detection.png "City Motion")
+     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/03%20Action%20Recognition/images/road%20side%20action.png "Action")
 
-3. No Motion Detection
-   - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\01 Abandon\highwayAbandon 1
-   - Enable `checkNoMotion` in Analytic Specific Setting
-     - No Motion Setting in the Analytic Specific Setting
-       - No Motion Interval - 10 Sec
-       - Time in seconds for no motion - 2 Sec
-     - No Motion Alert Interval - Interval in sec for No motion alerts 
-   - Disable `CheckMotion` in Analytic Specific Setting
-   - Check Alert for the No Motion by No Motion Interval
-   - Must check Motion Detection Alert not coming because we disabled the `checkMotion` setting
-   - Expected Output -> **Must get alert of No Motion**
+3. Gallery Action
+   - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\03 Action Recog\galleryAction2
+   - Also Check Waveing Alert 
+   - Expected Output -> **Must get an alert of the Action when the fight is detected**
      
-     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/02%20Advance%20Motion/images/noMotion%20VMS.png "No motion")
+     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/03%20Action%20Recognition/images/action%20Recg%20VMS.png "Action")
 
 ***Different test Cases only for Action Recognition***
 
@@ -69,8 +59,4 @@
 8. Check Find Attributes in Analytic Advance Specific Setting
 9. Show tracks, trackID
 10. Advance Settings
-
-***Must Check Setting***
-- Enable `find Attributes` Setting in Analytic Advance Specific Setting by enabling `show advance prop.`
-   - In the event card check attributes like -> backpack, bottom RGB (Bottom color), hat, longhair, longpants, longsleeves, etc
   
