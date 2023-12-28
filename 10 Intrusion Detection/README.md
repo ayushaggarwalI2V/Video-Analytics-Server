@@ -1,4 +1,4 @@
-# **Garbage Detection**
+# **Intrusion Detection**
  
 ***Steps to apply Intrusion Detection Analytic***
 
