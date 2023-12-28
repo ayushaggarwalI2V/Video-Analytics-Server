@@ -49,3 +49,4 @@
 2. Check Backend -> Inference, Open CV, CUDA
 3. Frame Skipping in `Analytic Advance Setting`
 4. Check the confidence value in `Analytic Specific Setting`
+5. Enable `Find Attributes` in Analytic Advance setting
