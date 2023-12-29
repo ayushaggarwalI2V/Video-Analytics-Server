@@ -11,7 +11,7 @@
 8. [Face Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/08%20Face%20Detection)
 9. [Garbage Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/09%20Garbage%20Detection)
 10. [Intrusion Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/10%20Intrusion%20Detection)
-11. Missing Object
+11. [Missing Object](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/11%20Missing%20Object%20Detection)
 12. Mask Detection
 13. Object Counting
 14. Perimeter Security or Wrong Direction
