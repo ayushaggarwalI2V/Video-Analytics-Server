@@ -12,7 +12,7 @@
 9. [Garbage Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/09%20Garbage%20Detection)
 10. [Intrusion Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/10%20Intrusion%20Detection)
 11. [Missing Object](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/11%20Missing%20Object%20Detection)
-12. [https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/12%20Mask%20detection](Mask Detection)
+12. [Mask Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/12%20Mask%20detection)
 13. Object Counting
 14. Perimeter Security or Wrong Direction
 15. Smoke Detection
@@ -25,5 +25,5 @@
 18. VIDS
 19. Weapon Detection
 20. Person Detection
-21. [https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/21%20Wagon%20Detection](Wagon Detection)
+21. [Wagon Detectio](nhttps://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/21%20Wagon%20Detection)
 22. PTZ Tracking
