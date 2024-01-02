@@ -23,25 +23,25 @@
 ##### Find Videos on _\\192.168.1.22\Testing_team\ayush_testing_videos_
 
 1. Intrusion Outside
-   - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\09 Garbage detection\garbage_night_day2
+   - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\10 Intrusion\intrusion_outside1
    - Draw the Min Max Object size as shown in the image
-   - Expected Output -> **_Alert must be generated when garbage detects_**
+   - Expected Output -> **_Alert must be generated when intrusion detects_**
      
      ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/10%20Intrusion%20Detection/images/intrusion%20outside.png "Intrusion Detection")
 
 2. Intrusion Detection Crawl
-   - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\09 Garbage detection\garbage_outside1
+   - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\10 Intrusion\intrusion2_crawl
    - Check the confidence value
-   - Expected Output -> **_Alert must be generated when garbage detects_**
+   - Expected Output -> **_Alert must be generated when intrusion detects_**
    
-     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/10%20Intrusion%20Detection/images/intrusion%20crawl.png "Garbage Detection")
+     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/10%20Intrusion%20Detection/images/intrusion%20crawl.png "Intrusion Detection")
 
 3. Intrusion Detection IOCL
-   - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\09 Garbage detection\garbage_outside1
+   - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\10 Intrusion\intrusion3_long_distance_iocl1
    - Check the confidence value
-   - Expected Output -> **_Alert must be generated when garbage detects_**
+   - Expected Output -> **_Alert must be generated when intrusion detects_**
    
-     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/10%20Intrusion%20Detection/images/intrusion%20iocl.png "Garbage Detection")
+     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/10%20Intrusion%20Detection/images/intrusion%20iocl.png "Intrusion Detection")
 
 ***Different test Cases only for Intrusion Detection***
 
