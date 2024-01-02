@@ -11,7 +11,7 @@
    - Draw Zones for Social Distancing Detection
    - Draw Social distance line -> The distance between individuals
 
-     ![image]( "Social Distancing Detection")
+     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/17%20Social%20Distancing%20Detection/images/Social%20Distancing%20Detection.png "Social Distancing Detection")
 
 4. Check Alert When the social distance below the input value
 5. For Advance Setting [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/132)
@@ -21,7 +21,7 @@
 9. Social Distance Threshold - To check if the distance value violates the minimum social distance set or not
 10. Output will Look like
 
-     ![image]( "Social Distancing Detection Output")
+     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/17%20Social%20Distancing%20Detection/images/Social%20Distancing%20violated%20alert.png "Social Distancing Detection Output")
 
 ***Different test Cases for different videos***
 ##### Find Videos on _\\192.168.1.22\Testing_team\ayush_testing_videos_
@@ -31,7 +31,7 @@
    - Draw the Min Max Object size as shown in the image
    - Expected Output -> **_Must get alert of the social distancing violated_**
      
-     ![image]( "Social Distancing Detection")
+     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/17%20Social%20Distancing%20Detection/images/Social%20Distancing%20Detection.png "Social Distancing Detection")
 
 ***Different test Cases only for Social Distancing Detection***
 
