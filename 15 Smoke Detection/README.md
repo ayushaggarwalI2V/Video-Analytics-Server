@@ -10,7 +10,7 @@
    - Draw ROI
    - No Specific Zones will be drawn in Smoke Detection Analytics
 
-     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/07%20Fire%20Detection/images/Fire%20VMs.png "Smoke Detection")
+     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/15%20Smoke%20Detection/images/smoke.png "Smoke Detection")
 
 4. Check Alert When the Smoke shows in the video
 5. For Smoke Detection [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/112)
@@ -19,7 +19,7 @@
 8. Smoke Interval -> event time between fire detects
 9. Output will Look like
 
-     ![image]( "Smoke Detection")
+     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/15%20Smoke%20Detection/images/smoke%20alert.png "Smoke Detection")
 
 ***Different test Cases for different videos***
 ##### Find Videos on _\\192.168.1.22\Testing_team\ayush_testing_videos_
@@ -29,21 +29,21 @@
    - Draw the Min Max Object size as shown in the image
    - Expected Output -> **_Must get alert of the Smoke Detection_**
      
-     ![image]( "Smoke Detection")
+     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/15%20Smoke%20Detection/images/smoke.png "Smoke Detection")
 
 2. Smoke Detection (Black Smoke)
    - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\15 Smoke Detection\smoke_fire_home_outside2
    - Check birth and death threshold in Advance Analytic Setting
-   - Check the background similarity factor -> Check background to use background matching algorithm
+   - Check the background similarity factor -> Check the background to use the background matching algorithm
    - Expected Output -> **_Must get alert of the Smoke Detection_**
    
-     ![image]( "Smoke Detection")
+     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/15%20Smoke%20Detection/images/smoke%20house.png "Smoke Detection")
      
 3. No Smoke Detection
    - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\15 Smoke Detection\no smoke_fire_outside1
    - Expected Output -> **_NO alert will be generated because there is no Smoke in this area it has only fire_**
    
-     ![image]( "No Smoke Detection")
+     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/15%20Smoke%20Detection/images/no%20smoke.png "No Smoke Detection")
 
 ***Different test Cases only for Smoke Detection***
 
