@@ -24,6 +24,6 @@
 17. Social Distancing Detection
 18. VIDS
 19. Weapon Detection
-20. Person Detection
+20. Person State Detection
 21. [Wagon Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/21%20Wagon%20Detection)
 22. PTZ Tracking
