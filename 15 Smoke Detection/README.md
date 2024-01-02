@@ -1,4 +1,4 @@
-![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/assets/153894100/bba5f36f-32ce-4c51-9cb0-8ab4dd0106f3)# **Smoke Detection**
+# **Smoke Detection**
  
 ***Steps to apply Smoke Detection Analytic***
 
