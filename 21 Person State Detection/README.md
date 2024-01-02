@@ -10,7 +10,7 @@
 4. Drawing Setting
    - Draw ROI
 
-     ![image]( "Person State Detection")
+     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/21%20Person%20State%20Detection/images/person%20state.png "Person State Detection")
 
 5. For Analytic Specific Setting [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/122)
 6. For Advance Setting [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/132)
@@ -18,7 +18,7 @@
 8. Person fallen interval -> If a person is detected as fallen, up to the configured threshold then it'll generate an event of Person_Fallen.
 9. Output will Look like
 
-     ![image]( "Person State Detection output")
+     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/21%20Person%20State%20Detection/images/person%20state%20alert.png "Person State Detection output")
 
 ***Different test Cases for different videos***
 ##### Find Videos on _\\192.168.1.22\Testing_team\ayush_testing_videos_
@@ -28,21 +28,21 @@
    - Draw the Min Max Object size as shown in the image
    - Expected Output -> **_Alert must be generated when person falls_**
      
-     ![image]( "Person State Detection")
+     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/21%20Person%20State%20Detection/images/person%20state.png "Person State Detection")
 
 2. Person State Detection Outside
    - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\20 Person State Detection\fallenOutside2
    - Check the confidence value
    - Expected Output -> **_Alert must be generated when person falls_**
    
-     ![image]( "Person State Detection")
+     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/21%20Person%20State%20Detection/images/person%20state%20outside2.png "Person State Detection")
 
 3. Person State Detection (Smart City Site)
    - Link to video - 
    - Check the confidence value
    - Expected Output -> **_Alert must be generated when person falls_**
    
-     ![image]( "Person State Detection")
+     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/21%20Person%20State%20Detection/images/person%20state%20iocl.png "Person State Detection")
 
 ***Different test Cases only for Person State Detection***
 
