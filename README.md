@@ -14,7 +14,7 @@
 11. [Missing Object](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/11%20Missing%20Object%20Detection)
 12. [Mask Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/12%20Mask%20detection)
 13. Object Counting
-14. Perimeter Security or Wrong Direction
+14. [Perimeter Security](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/14%20Perimeter%20Security)
 15. [Smoke Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/15%20Smoke%20Detection)
 16. Safety Gear Violation
     * Safety Shoes
