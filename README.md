@@ -1,11 +1,13 @@
 # Video-Analytics-Server
 ## Steps to Apply on VMS
 1. Install Video Analytics Release based on operating system
-2. Open Confriguation Client
-3. Open Application Tab
-4. In the VA Server Add a new
-5. Enter Analytics Server IP -> IP of the system in which VA is installed
-6. Add ports to VMS -> To From the system in which VA is installed open the config file and check the port
+2. Download the Data folder for the models
+3. Open Configuration Client in VMS
+4. Open Application Tab
+5. In the VA Server Add a new
+6. Enter Analytics Server IP -> IP of the system in which VA is installed
+7. Add ports to VMS -> To find ports check the config file in the system in which VA is installed (Folder Structure: VA_Server -> Config -> mainConf.json)
+8. Check the status of VA Server (Connected/ Dis-Connected)
 
 ## List of Analytics
 1. [Abandon Object](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/01%20Abandon%20Object%20Detection)
