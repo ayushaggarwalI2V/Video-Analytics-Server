@@ -28,14 +28,14 @@
    - Link to video - 
    - 
    - Draw the area as shown in the image
-   - Expected Output -> **_Must get alert of object_** after the stationary duration time
+   - Expected Output -> **_Must get alert _** 
      
    ![image]( "")
 
 2. 
    - Link to video - 
    - Check the background similarity factor -> Check background to use background matching algorithm for abandoned objects.
-   - Expected Output -> **_Alert of the bag is generated_**
+   - Expected Output -> **_Alert of _**
    
    ![image]( "")
 
@@ -43,6 +43,7 @@
    - Link to video - 
    - 
    - Check with different select objects like - cars, buses, etc
+   - Expected Output -> **_Alert of _**
      
    ![image]( "")
 
@@ -50,7 +51,7 @@
    - Link to video - 
    - 
    - Check with different select objects like - cars, buses, etc
-   - Expected Output -> **_No alerts are generated_** because there is no abandoned object in this video
+   - Expected Output -> **_Alert of _**
      
    ![image]( "")
 
