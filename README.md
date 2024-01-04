@@ -1,5 +1,5 @@
 # Video-Analytics-Server
-## Steps to Apply on VMS
+## Steps to Apply VA on VMS
 1. Install Video Analytics Release based on operating system
 2. Download the Data folder for the models
 3. Open Configuration Client in VMS
