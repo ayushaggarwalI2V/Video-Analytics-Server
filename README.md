@@ -26,6 +26,13 @@
 8. Click Apply
 
    ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/01%20Abandon%20Object%20Detection/images/vms2.png "VMS image")
+
+9. Go to the `Application` tab in VMS
+10. Select VA server
+11. Click `Select Camera` -> Then from the device list Select the camera in which you want to apply analytics
+12. Click Apply
+
+   ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/01%20Abandon%20Object%20Detection/images/va.png "VMS image")
    
 ## Steps to Apply VA on VMS
 1. Open `Live View Client`
@@ -70,7 +77,7 @@
 3. Then Add the new VA to VMS
  
 ## VA API Calls
-1. To Check the version of VA -> http://<IP of system in which va is installed>:(rest port)/analytic/version eg-> http://192.168.1.161:5018/analytic/version
-2. To Check the status of running analytics and details -> http://<IP of system in which va is installed>:(rest port)/analytic/details eg-> http://localhost:5018/analytic/status
-3. To Check VA stream in browser -> http://<ip>:<port>/<cameraid>_<cameraName>_basic
+1. To Check the version of VA -> http://(IP of system in which va is installed):(rest port)/analytic/version eg-> http://192.168.1.161:5018/analytic/version
+2. To Check the status of running analytics and details -> http://(IP of system in which va is installed):(rest port)/analytic/details eg-> http://localhost:5018/analytic/status
+3. To Check VA stream in browser -> http://(ip):(streaming port)/(cameraId)_(cameraName)_basic
 
