@@ -1,14 +1,42 @@
 # Video-Analytics-Server
-## Steps to Apply VA on VMS
+## Steps to ADD VA on VMS
 1. Install Video Analytics Server Release based on operating system
 2. Download the Data folder for the models
-3. Open Configuration Client in VMS
-4. Open Application Tab
-5. In the VA Server Add a new
-6. Enter Analytics Server IP -> IP of the system in which VA is installed
-7. Add ports to VMS -> To find ports check the config file in the system in which VA server is installed (Folder Structure: VA_Server -> Config -> mainConf.json)
-8. Check the status of VA Server on VMS (Connected/ Dis-Connected)
+3. Check the service of Video Analytics Server
+   - `In Windows` -> Open Services -> Check i2V_analytics_server service it must be running
+   - `In Linux` -> sudo systemctl status i2v_analytic_server.service (service must be running)
+5. Open Configuration Client in VMS
+6. Open Application Tab
+7. In the VA Server Add a new
+8. Enter Analytics Server IP -> IP of the system in which VA is installed
+9. Add ports to VMS -> To find ports check the config file in the system in which VA server is installed (Folder Structure: VA_Server -> Config -> mainConf.json)
+10. Check the status of VA Server on VMS (Connected/ Dis-Connected)
 
+## Steps to ADD VA on VMS
+1. Open Configuration Client in VMS
+2. Click Add
+3. In Popup click `Add Devices`
+4. Enter the device name according to you
+5. Change Make to `Recording` and Model to `Play Recording`
+6. Click `Add Selected Device`
+
+   ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/01%20Abandon%20Object%20Detection/images/vms.png "VMS image")
+   
+7. Select the device you have added and add the `Stream URL` (local path of the video that you want to add)
+8. Click Apply
+
+   ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/01%20Abandon%20Object%20Detection/images/vms2.png "VMS image")
+   
+## Steps to Apply VA on VMS
+1. Open `Live View Client`
+2. Open the device in the view
+3. Right-click on the video
+4. Select `Apply Video Analytics`
+
+   ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/01%20Abandon%20Object%20Detection/images/lv.png "VMS image")
+   
+5. For Every analytics check below references
+   
 ## List of Analytics
 1. [Abandon Object](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/01%20Abandon%20Object%20Detection)
 2. [Advance Motion Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/02%20Advance%20Motion)
