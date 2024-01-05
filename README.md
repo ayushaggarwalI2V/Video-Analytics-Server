@@ -76,8 +76,8 @@
 21. [Wagon Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/21%20Wagon%20Detection)
 
 ## Important Points to be Remember for VA Server
-1. At a time only 1 VA is attached to only 1 Application
-2. To Create multiple services of VA [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/140)
+1. At a time only 1 VA server is attached to only 1 Application
+2. To Create multiple VA servers have to create multiple services of VA [Check This to create multiple services](https://stackoverflowteams.com/c/i2v-systems/questions/140)
 3. Then Add the new VA to VMS
  
 ## VA API Calls
