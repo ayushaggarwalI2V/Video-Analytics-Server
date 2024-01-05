@@ -16,7 +16,7 @@
    
 4. Check Alert When Object arrives and Stationary Duration
 5. For Advance Setting [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/132)
-6. For Abandon Setting [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/114)
+6. For More information of Abandon [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/114)
 7. Check Frame Skipping and its effect on the computation of the system.
 8. Output will Look like
    
@@ -47,7 +47,7 @@
 3. Highway Scenario
    - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\01 Abandon\highwayAbandon 1
    - Set stationary duration time to 10 sec
-   - Check Alert for the object after the Stationary duration time
+   - Check Alert for the object entered in the frame and exceed the stationary duration time 
    - Must check other objects not showing the abandoned object
    - Check with different select objects like - cars, buses, etc
    - Expected Output -> **_Must get alert of object_**
