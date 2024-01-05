@@ -4,7 +4,11 @@
 2. Download the Data folder for the models
 3. Check the service of Video Analytics Server
    - `In Windows` -> Open Services -> Check i2V_analytics_server service it must be running
-   - `In Linux` -> ``sudo systemctl status i2v_analytic_server.service`` (service must be running)
+   - `In Linux` -> Use below command to check the status of service (service must be running)
+```
+    sudo systemctl status i2v_analytic_server.service
+```
+(service must be running)
 5. Open Configuration Client in VMS
 6. Open Application Tab
 7. In the VA Server Add a new
