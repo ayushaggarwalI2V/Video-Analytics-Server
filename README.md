@@ -41,7 +41,7 @@
 1. [Abandon Object](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/01%20Abandon%20Object%20Detection)
 2. [Advance Motion Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/02%20Advance%20Motion)
 3. [Action Recognition](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/03%20Action%20Recognition)
-4. [ATCC (Automatic Traffic Counting And Classification)]
+4. [ATCC (Automatic Traffic Counting And Classification)]()
 5. [Camera Tampering](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/05%20Camera%20Tampering)
 6. [Crowd Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/06%20Crowd%20Detection)
 7. [Fire Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/07%20Fire%20Detection)
@@ -53,13 +53,18 @@
 13. [Object Counting](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/13%20Object%20Counting)
 14. [Perimeter Security](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/14%20Perimeter%20Security)
 15. [Smoke Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/15%20Smoke%20Detection)
-16. [Safety Gear Violation]
+16. [Safety Gear Violation]()
     * Safety Shoes
     * Safety Helmet
     * Safety vest
     * Safety Gear Violation
 17. [Social Distancing Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/17%20Social%20Distancing%20Detection)
-18. [VIDS]
+18. [VIDS]()
 19. [Weapon Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/19%20Weapon%20Detection)
 20. [Person State Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/20%20Person%20State%20Detection)
 21. [Wagon Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/21%20Wagon%20Detection)
+
+## Important Points to be Remember for VA Server
+1. At a time only 1 VA is attached to only 1 Application
+2. To Create multiple services of VA [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/140)
+3. Then Add the new VA to VMS
