@@ -1,5 +1,5 @@
 # Video-Analytics-Server
-## Steps to ADD VA on VMS
+## Steps to Add VA on VMS
 1. Install Video Analytics Server Release based on operating system
 2. Download the Data folder for the models
 3. Check the service of Video Analytics Server
@@ -12,7 +12,7 @@
 9. Add ports to VMS -> To find ports check the config file in the system in which VA server is installed (Folder Structure: VA_Server -> Config -> mainConf.json)
 10. Check the status of VA Server on VMS (Connected/ Dis-Connected)
 
-## Steps to ADD Devices for VA on VMS
+## Steps to Add Devices for VA on VMS
 1. Open Configuration Client in VMS
 2. Click Add (only for testing video)
 3. In Popup click `Add Devices`
