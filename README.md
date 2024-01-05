@@ -68,3 +68,9 @@
 1. At a time only 1 VA is attached to only 1 Application
 2. To Create multiple services of VA [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/140)
 3. Then Add the new VA to VMS
+ 
+## VA API Calls
+1. To Check the version of VA -> http://<IP of system in which va is installed>:(rest port)/analytic/version eg-> http://192.168.1.161:5018/analytic/version
+2. To Check the status of running analytics and details -> http://<IP of system in which va is installed>:(rest port)/analytic/details eg-> http://localhost:5018/analytic/status
+3. To Check VA stream in browser -> http://<ip>:<port>/<cameraid>_<cameraName>_basic
+
