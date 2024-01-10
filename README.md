@@ -64,11 +64,11 @@
 13. [Object Counting](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/13%20Object%20Counting)
 14. [Perimeter Security](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/14%20Perimeter%20Security)
 15. [Smoke Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/15%20Smoke%20Detection)
-16. [Safety Gear Violation]()
-    * Safety Shoes
+16. [Safety Gear Violation](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/16%20Safety%20Gear%20Violation/README.md)
     * Safety Helmet
+    * Safety shoes
     * Safety vest
-    * Safety Gear Violation
+    * Safety shoes and helmet
 17. [Social Distancing Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/17%20Social%20Distancing%20Detection)
 18. [VIDS]()
 19. [Weapon Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/19%20Weapon%20Detection)
