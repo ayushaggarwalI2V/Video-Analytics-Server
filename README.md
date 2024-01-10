@@ -101,3 +101,4 @@
    - Path of data folder
    - for windows -> C:\Program Files (x86)\I2V\VA_Server
    - for linux -> opt/i2v-analytic-server/analytic_server
+6. VA Models -> \\192.168.1.22\Testing_team\ayush_testing_videos\va_data_models
