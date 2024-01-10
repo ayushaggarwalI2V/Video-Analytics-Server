@@ -91,3 +91,12 @@
    - http://(ip):(streaming port)/(cameraId)_(cameraName)_basic
    - eg-> http://192.168.1.161:8093/128_atcc_city_oneWay1_basic
 
+## Basic Troubleshooting Step
+1. If the service not starting check port whether it is acquired by another program
+2. Alerts not coming - check alert sending port
+3. VA Stream not coming - check streaming port
+4. Service does not start and shows `unable to find the path or recursive error` in Linux then delete the `logs` folder in the VA server folder
+5. Error -> `Unable to load weight file` then the model is missing in the data folder
+   - Path of data folder
+   - for windows -> C:\Program Files (x86)\I2V\VA_Server
+   - for linux -> opt/i2v-analytic-server/analytic_server
