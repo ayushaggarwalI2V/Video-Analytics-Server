@@ -3,9 +3,9 @@
 ***Steps to apply Safety Gear Analytic***
 
 1. Analytic Specific Settings
-   - Select Object
-   - Check Stationary Duration Time                                 
-   - Check Filter by Classification - To get alerts of only Selected items
+   - Select Object -> person
+   - Select Default Model for basic purpose like -> detecting person and basic objects
+   - In Safety Gear Analytic we detect -> Safety Helmet, Safety Vest, Safety Shoes, Safety Mask
 2. Object Sizes
    - Draw Min and Max Size of the Object
 3. Drawing Setting
@@ -13,10 +13,10 @@
    - Draw Zones (Shown in image)
    
     ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/01%20Abandon%20Object%20Detection/images/graffiti.png "VMS image")
-   
-4. Check Alert When Object arrives and Stationary Duration
-5. For Advance Setting [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/132)
-6. For More information of Abandon [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/114)
+
+4. Max Classification - Total Number of person in which VA process analytic  
+5. For Analytic Specific Setting of Safety Gear Violation [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/130)
+6. For Advance Setting [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/132)
 7. Check Frame Skipping and its effect on the computation of the system.
 8. Output will Look like
    
