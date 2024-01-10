@@ -80,9 +80,9 @@
 4. Check Bbox
 5. Tracking of object -> ID persists, no exchange of ID
 6. VA Stream Delay
-7. Filter by classification objects
+7. Multiple Detection
 8. Draw Multiple zones, min-max setting
 9. Check Find Attributes
 10. Show tracks, trackID
-11. Advance Settings
+11. Impact of model height and processing height
 
