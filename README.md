@@ -8,13 +8,14 @@
 ```
     sudo systemctl status i2v_analytic_server.service
 ```
-(service must be running)
+4. VA Server service must be running
 5. Open Configuration Client in VMS
 6. Open Application Tab
 7. In the VA Server Add a new
 8. Enter Analytics Server IP -> IP of the system in which VA is installed
-9. Add ports to VMS -> To find ports check the config file in the system in which VA server is installed (Folder Structure: VA_Server -> Config -> mainConf.json)
-10. Check the status of VA Server on VMS (Connected/ Dis-Connected)
+9. Add ports to VMS -> To find ports check the config file in the system in which VA server is installed
+   - (Folder Structure: VA_Server -> Config -> mainConf.json)
+11. Check the status of VA Server on VMS (Connected/ Dis-Connected)
 
 ## Steps to Add Devices for VA on VMS
 1. Open Configuration Client in VMS
