@@ -88,11 +88,11 @@
 2. To Check the status of running analytics and details ->
    - http://(IP of system in which va is installed):(rest port)/analytic/details
    - eg-> http://192.168.1.161:5018/analytic/status
-3. To Check VA stream in browser ->
+3. To Check the VA stream in the browser ->
    - http://(ip):(streaming port)/(cameraId)_(cameraName)_basic
    - eg-> http://192.168.1.161:8093/128_atcc_city_oneWay1_basic
 
-## Basic Troubleshooting Step
+## Basic Troubleshooting Steps
 1. If the service not starting check port whether it is acquired by another program
 2. Alerts not coming - check alert sending port
 3. VA Stream not coming - check streaming port
