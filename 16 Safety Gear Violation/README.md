@@ -38,7 +38,7 @@
 ***Different test Cases for different videos***
 ##### Find Videos on _\\192.168.1.22\Testing_team\ayush_testing_videos_
 
-1. No Helmet Inside
+1. #### No Helmet Inside
    - \\192.168.1.22\Testing_team\ayush_testing_videos\16 Safety Gear Violation\noHelmet_inside_iocl5
    - Enable the `detect no helmet` check in the analytic-specific setting
    - Check detection on different models
@@ -47,7 +47,7 @@
      
    ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/16%20Safety%20Gear%20Violation/images/safety%20gear%20violation.png "zone")
 
-2. No Shoes IOCL
+2. #### No Shoes IOCL
    - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\16 Safety Gear Violation\noShoes_iocl1
    - Enable the `detect no safetyshoes` check in the analytic-specific setting
    - Draw the area as shown in the image
@@ -55,7 +55,7 @@
    
    ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/16%20Safety%20Gear%20Violation/images/no%20shoes.png "zone")
 
-3. No Safety Vest
+3. #### No Safety Vest
    - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\16 Safety Gear Violation\noVest_city2
    - Enable the `detect no safety vest` check in the analytic-specific setting
    - Draw the area as shown in the image
@@ -63,7 +63,7 @@
      
    ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/16%20Safety%20Gear%20Violation/images/no%20vest%20vms.png "zone")
 
-4. No Helmet and No Vest Outside
+4. #### No Helmet and No Vest Outside
    - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\16 Safety Gear Violation\noHelmet_outside3
    - In Select Object choose face, person
    - Enable the `detect no helmet` and `detect no safety vest` checks in the analytic-specific setting
