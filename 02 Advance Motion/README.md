@@ -55,7 +55,7 @@
      ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/02%20Advance%20Motion/images/city%20motion%20detection.png "City Motion")
 
 3. No Motion Detection
-   - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\01 Abandon\highwayAbandon 1
+   - Link to video - \\192.168.1.22\Testing_team\ayush_testing_videos\02 Advance Motion\No Motion1
    - Enable `checkNoMotion` in Analytic Specific Setting
      - No Motion Setting in the Analytic Specific Setting
        - No Motion Interval - 10 Sec
