@@ -69,7 +69,7 @@
    - Also we can test multiple detections based on videos
    - Expected Output -> **_Alert of the stop vehicle is generated when the vehicle stops inside the zone_**
    
-   ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/01%20Abandon%20Object%20Detection/images/cityAbandoned.png "City Abandon")
+   ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/18%20VIDs/images/stop%20.png "stop vehicle")
 
 #### Check more videos of VIDS on (\\192.168.1.22\Testing_team\ayush_testing_videos\18 VIDs) and apply analytics based on the use case and video type of analytic
 
