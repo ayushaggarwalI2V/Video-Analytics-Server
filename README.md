@@ -93,7 +93,7 @@
    - eg-> http://192.168.1.161:8093/128_atcc_city_oneWay1_basic
 
 ## Basic Troubleshooting Steps
-1. If VMS shows VA is not connected then Check Anlytic Server port in config json and check status of service
+1. If VMS shows VA is not connected then Check the Analytic Server port in config json and check the status of the service
 2. If the service not starting check port whether it is acquired by another program
 3. Alerts not coming - check alert sending port
 4. VA Stream not coming - check streaming port
