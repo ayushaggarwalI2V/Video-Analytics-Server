@@ -14,7 +14,7 @@
 
      ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/03%20Action%20Recognition/images/action%20Recg%20VMS.png "VMS Action")
 
-4. Check Alert When the motion happens
+4. Check Alert When the fight or waving happens
 5. For Advance Setting [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/132)
 6. For Action Recognition [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/116)
 7. Check Frame Skipping and its effect on the computation of the system.
