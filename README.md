@@ -66,15 +66,20 @@
 14. [Perimeter Security](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/14%20Perimeter%20Security)
 15. [Smoke Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/15%20Smoke%20Detection)
 16. [Safety Gear Violation](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/16%20Safety%20Gear%20Violation/README.md)
-    * Safety Helmet
-    * Safety shoes
-    * Safety vest
-    * Safety shoes and helmet
+    * [Safety Helmet](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/16%20Safety%20Gear%20Violation/README.md#no-helmet-inside)
+    * [Safety shoes](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/16%20Safety%20Gear%20Violation/README.md#no-shoes-iocl)
+    * [Safety vest](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/16%20Safety%20Gear%20Violation/README.md#no-safety-vest)
+    * [Safety shoes and helmet](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/16%20Safety%20Gear%20Violation/README.md#no-helmet-and-no-vest-outside)
 17. [Social Distancing Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/17%20Social%20Distancing%20Detection)
-18. [VIDS]()
-19. [Weapon Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/19%20Weapon%20Detection)
-20. [Person State Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/20%20Person%20State%20Detection)
-21. [Wagon Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/21%20Wagon%20Detection)
+18. [VIDS](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/18%20VIDs)
+    * [Acceleration Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/18%20VIDs/README.md#acceleration-detection)
+    * [Deacceleration Detected](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/18%20VIDs/README.md#deacceleration-detected)
+    * [Human Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/18%20VIDs/README.md#human-detection)
+    * [Illegal Vehicle](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/18%20VIDs/README.md#illegal-vehicle)
+    * [Vehicle Stopped](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/18%20VIDs/README.md#vehicle-stopped)
+20. [Weapon Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/19%20Weapon%20Detection)
+21. [Person State Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/20%20Person%20State%20Detection)
+22. [Wagon Detection](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/tree/main/21%20Wagon%20Detection)
 
 ## Important Points to be Remember for VA Server
 1. At a time only 1 VA server is attached to only 1 Application
