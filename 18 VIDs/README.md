@@ -29,23 +29,23 @@
 7. For More information on VIDS [Check This](https://stackoverflowteams.com/c/i2v-systems/questions/128)
 9. Check Frame Skipping and its effect on the computation of the system.
 10. Output will Look like
-   - Acceleration Detection
+   - #### Acceleration Detection
       
      ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/18%20VIDs/images/accelerated.png "Output")
    
-   - Deacceleration Detected
+   - #### Deacceleration Detected
       
      ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/18%20VIDs/images/deaccelerated.png "Output")
 
-   - Human Detection
+   - #### Human Detection
       
      ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/18%20VIDs/images/human%20detect.png "Output")
 
-   - Illegal Vehicle
+   - #### Illegal Vehicle
 
      ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/18%20VIDs/images/illlegal.png "Illegal Vehicle")
 
-   - Vehicle Stopped
+   - #### Vehicle Stopped
 
      ![image](https://github.com/ayushaggarwalI2V/Video-Analytics-Server/blob/main/18%20VIDs/images/stop%20vehicle.png "stop vehicle")
 
