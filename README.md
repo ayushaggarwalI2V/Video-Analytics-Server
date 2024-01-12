@@ -88,7 +88,7 @@
 2. To Create multiple VA servers have to create multiple services of VA [Check This to create multiple services](https://stackoverflowteams.com/c/i2v-systems/questions/140)
 3. Then Add the new VA to VMS
  
-## VA API Calls
+## VA Basic API Calls
 1. To Check the version of VA ->
    - http://(IP of system in which va is installed):(rest port)/analytic/version
    - eg-> http://192.168.1.161:5018/analytic/version
