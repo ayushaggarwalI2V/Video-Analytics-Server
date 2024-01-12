@@ -93,12 +93,13 @@
    - eg-> http://192.168.1.161:8093/128_atcc_city_oneWay1_basic
 
 ## Basic Troubleshooting Steps
-1. If the service not starting check port whether it is acquired by another program
-2. Alerts not coming - check alert sending port
-3. VA Stream not coming - check streaming port
-4. Service does not start and shows `unable to find the path or recursive error` in Linux then delete the `logs` folder in the VA server folder
-5. Error -> `Unable to load weight file` then the model is missing in the data folder
+1. If VMS shows VA is not connected then Check Anlytic Server port in config json and check status of service
+2. If the service not starting check port whether it is acquired by another program
+3. Alerts not coming - check alert sending port
+4. VA Stream not coming - check streaming port
+5. Service does not start and shows `unable to find the path or recursive error` in Linux then delete the `logs` folder in the VA server folder
+6. Error -> `Unable to load weight file` then the model is missing in the data folder
    - Path of data folder
    - for windows -> C:\Program Files (x86)\I2V\VA_Server
    - for linux -> opt/i2v-analytic-server/analytic_server
-6. VA Models \\192.168.1.22\Testing_team\ayush_testing_videos\va_data_models)
+7. VA Models \\192.168.1.22\Testing_team\ayush_testing_videos\va_data_models)
