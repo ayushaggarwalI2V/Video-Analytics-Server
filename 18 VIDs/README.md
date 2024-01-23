@@ -2,7 +2,7 @@
  
 ***Steps to apply VIDS Analytic***
 
-1. In Vids Analytics we detect
+1. In Vids Analytics we detect the following -:
    - Human Detection
    - Acceleration of vehicle (for the given threshold)
    - Deacceleration of vehicle (for the given threshold)
